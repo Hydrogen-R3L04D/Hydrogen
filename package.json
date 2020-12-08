@@ -1,0 +1,19 @@
+{
+  "name": "hydrogen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hydrogen-R3L04D/Hydrogen.git"
+  },
+  "author": "reload-esp <reload304@gmail.com> (https://github.com/R3L04D-esp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hydrogen-R3L04D/Hydrogen/issues"
+  },
+  "homepage": "https://github.com/Hydrogen-R3L04D/Hydrogen#readme"
+}
